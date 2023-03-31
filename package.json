@@ -1,5 +1,5 @@
 {
-  "name": "node",
+  "name": "@amie82/ajs",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
